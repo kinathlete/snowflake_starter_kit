@@ -1,0 +1,6 @@
+Name,Warehouse_Type,Warehouse_Size,Max_Cluster_Count,Min_Cluster_Count,Scaling_Policy,Auto_Suspend,Auto_Resume,Initially_Suspended
+DATA_LOADING_WH,Standard,SMALL,2,1,Economy,120,TRUE,TRUE
+TRANSFORMATIONS_WH,Standard,SMALL,1,1,Standard,300,TRUE,TRUE
+DEV_ANALYTICS_WH,Standard,XSMALL,1,1,Standard,600,TRUE,TRUE
+PROD_ANALYTICS_WH,Standard,MEDIUM,1,1,Standard,600,TRUE,TRUE
+DATA_SCIENCE_WH,Snowpark-Optimized,MEDIUM,1,1,Standard,600,TRUE,TRUE

@@ -1,0 +1,6 @@
+Username,Password,Login_Name,Display_Name,First_Name,Last_Name,Email,Must_Change_Password,Default_Warehouse,Default_Role,Sandbox
+Max_Mustermann,abcdefghij1234!&,maxmustermann@claudy.com,Max,Max,Mustermann,maxmustermann@claudy.com,TRUE,DEV_ANALYTICS_WH,ANALYTICS_ENGINEER,FALSE
+Klara_Kantersteg,abcdefghij1234!&,klarakantersteg@claudyconsulting.com,Klara,Klara,Kantersteg,klarakantersteg@claudyconsulting.com,TRUE,PROD_ANALYTICS_WH,DATA_ANALYST,TRUE
+Sigfried_Sieger,abcdefghij1234!&,business@claudyconsulting.com,Sigfried,Sigfried,Sieger,business@claudyconsulting.com,TRUE,PROD_ANALYTICS_WH,BUSINESS_USER,FALSE
+Luke_Later,abcdefghij1234!&,lukelater@claudyconsulting.com,Luke,Luke,Later,lukelater@claudyconsulting.com,TRUE,DATA_SCIENCE_WH,DATA_SCIENTIST,TRUE
+Denise_Dover,abcdefghij1234!&,denisedover@claudyconsulting.com,Denise,Denise,Dover,denisedover@claudyconsulting.com,TRUE,DEV_ANALYTICS_WH,ANALYTICS_ENGINEER,FALSE
